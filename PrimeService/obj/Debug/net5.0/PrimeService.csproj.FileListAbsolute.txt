@@ -1,0 +1,12 @@
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\bin\Debug\net5.0\PrimeService.deps.json
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\bin\Debug\net5.0\PrimeService.dll
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.dll
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Users\clogan\code\pi_academy\MSTest\unit-testing-using-mstest\PrimeService\obj\Debug\net5.0\PrimeService.pdb
