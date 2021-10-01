@@ -3,6 +3,9 @@ using Prime.Services;
 
 namespace Prime.UnitTests.Services
 {
+    /// <summary>
+    ///  Unit Testing C# with MSTest and .Net using https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
+    /// </summary>
     // TestClass attribute denotes a class that contains unit tests
     [TestClass]
     public class PrimeService_IsPrimeShould
